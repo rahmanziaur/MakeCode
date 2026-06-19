@@ -16,6 +16,14 @@ Scan the QR code or click the link below to open the example project directly in
 
 ---
 
+## 🖼️ Editor Preview
+
+A quick look at the MakeCode Arcade editor — blocks workspace on one side, simulator on the other:
+
+<img src="https://raw.githubusercontent.com/rahmanziaur/kids/master/makecode1.jpg" alt="MakeCode Arcade editor showing the blocks workspace and simulator" width="600" />
+
+---
+
 ## 📖 About MakeCode Arcade
 
 MakeCode Arcade lets you build retro-style games using drag-and-drop blocks (which can be converted to JavaScript). Every project you create and share gets a permanent **share ID** that looks like:
@@ -145,7 +153,6 @@ makecode-tutorials/
 └── assets/
     └── screenshots/
 ```
-
 ---
 
 ## 🤝 Contributing
